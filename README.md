@@ -144,7 +144,7 @@ Join the Word Cloud Board :cloud: :pencil2:
   </tr>
   <tr>
  
-    <td><p align="center"><a href="https://github.com/zhu-yu-peng/zhu-yu-peng?tab=stars"><b>MY STARRED REPOS <br>AND TOPICS</b></a>
+    <td><p align="center"><a href="https://github.com/zhu-yu-peng/zhu-yu-peng"><b>MY STARRED REPOS <br>AND TOPICS</b></a>
     <td><p align="center"><a href="https://github.com/trinib/trinib/edit/main/README.md"><b>FORK PROFILE WITH <br>EASY EDITING</b></a>
   </tr>
  </table>
