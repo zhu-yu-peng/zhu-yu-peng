@@ -105,7 +105,7 @@ Join the Word Cloud Board :cloud: :pencil2:
 <h3 align="center">
 📛Github Usernames📛 
 </br> 
-<img src="https://raw.githubusercontent.com/zhu-yu-peng/word-cloud/main/wordcloud/wordcloud.png" alt="WordCloud" width="100%">
+<img src="https://raw.githubusercontent.com/trinib/word-cloud/main/wordcloud/wordcloud.png" alt="WordCloud" width="100%">
 
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
